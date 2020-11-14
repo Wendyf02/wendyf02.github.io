@@ -1,6 +1,6 @@
 # wendyf02github.io
 Installation:
-Using HTML AND CSS and  JavaScript and Bootstrap
+Using HTML AND CSS and JavaScript and Bootstrap
 
 Usage:
 Home & About
@@ -14,7 +14,7 @@ Images are in assets- ./assets/images
 css is in assets- ./assets/css
 
 Porfortfolio 
-Usea Align boxex to add images
+Usea Align form boxes from Bootstrap to add images
 
 
 Contact
