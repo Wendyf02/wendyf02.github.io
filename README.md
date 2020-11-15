@@ -1,11 +1,14 @@
 # wendyf02github.io
+
+Title: Resonsive Portfolio
+
 Installation:
-Using HTML AND CSS and JavaScript and Bootstrap
+Using HTML AND CSS and JavaScript and Bootstrap & w3School Bootstrap.
 
 Usage:
-Home & About
-Use Bootstrap -Navbar for header in all pages.
-Navbar is Responsibe.
+Home & About-Use Bootstrap -Navbar for header in all pages.
+Navbar  use from Bootstrap and adjusted.
+All pages are Responsive.
 Use data-spy="scroll"-in Body for Home & About page.
 Home & About page is scroll.
 Use in Home and About page Fluid-image.
@@ -14,7 +17,7 @@ Images are in assets- ./assets/images
 css is in assets- ./assets/css
 
 Porfortfolio 
-Usea Align form boxes from Bootstrap to add images
+Use W3School Bootstrap boxes from templates and Align & add images.
 
 
 Contact
